@@ -1,0 +1,26 @@
+/* Estilos mínimos - La mayoría de estilos están en Tailwind CSS */
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Scrollbar personalizado para tema oscuro */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1f2937;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4b5563;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6b7280;
+}

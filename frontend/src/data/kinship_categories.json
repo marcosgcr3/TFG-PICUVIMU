@@ -1,0 +1,2578 @@
+{
+    "Consanguinidad Ascendente y Colateral": [
+        {
+            "name": "Padre",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Madre",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Abuelo",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Abuela",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Hermano",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Hermana",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Hermanos",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Medio hermano",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Media hermana",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Bisabuelo",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisabuela",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tío",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tía",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Medio tío",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Media tía",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tatarabuelo",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Tatarabuela",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Tío abuelo",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Tía abuela",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primo",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Prima",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Medio primo",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Media prima",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Doble primo",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Doble prima",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Trastatarabuelo",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Trastatarabuela",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tío bisabuelo",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tía bisabuela",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tío segundo",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tía segunda",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Pentabuelo",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Pentabuela",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Tía tatarabuela",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Tío abuelo segundo",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Tía abuela segunda",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Primo segundo",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Prima segunda",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Hexabuelo",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Hexabuela",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tía trastatarabuela",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tío bisabuelo segundo",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tía bisabuela segunda",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tío tercero",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tía tercera",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Heptabuelo",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Heptabuela",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tío pentabuelo",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tía pentabuela",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo segundo",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tía tatarabuela segunda",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tío abuelo tercero",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tía abuela tercera",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Primo tercero",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Prima tercera",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Octabuelo",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Octabuela",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tío hexabuelo",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tía hexabuela",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo segundo",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tía trastatarabuela segunda",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tío bisabuelo tercero",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tía bisabuela tercera",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tío cuarto",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tía cuarta",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Eneabuelo",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Eneabuela",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tío heptabuelo",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tía heptabuela",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tío pentabuelo segundo",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tía pentabuela segunda",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo tercero",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tía tatarabuela tercera",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tío abuelo cuarto",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tía abuela cuarta",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Primo cuarto",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Prima cuarta",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Decabuelo",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Decabuela",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tío octabuelo",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tía octabuela",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tío hexabuelo segundo",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tía hexabuela segunda",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo tercero",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tía trastatarabuela tercera",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tío bisabuelo cuarto",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tía bisabuela cuarta",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tío quinto",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tía quinta",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tío eneabuelo",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tía eneabuela",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tío heptabuelo segundo",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tía heptabuela segunda",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tío pentabuelo tercero",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tía pentabuela tercera",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo cuarto",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tía tatarabuela cuarta",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tío abuelo quinto",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tía abuela quinta",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Primo quinto",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Prima quinta",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tío octabuelo segundo",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tía octabuela segunda",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tío hexabuelo tercero",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tía hexabuela tercera",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo cuarto",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tía trastatarabuela cuarta",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tío bisabuelo quinto",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tía bisabuela quinta",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tío sexto",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tía sexta",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tío heptabuelo tercero",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tía heptabuela tercera",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tío pentabuelo cuarto",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tía pentabuela cuarta",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo quinto",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tía tatarabuela quinta",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tío abuelo sexto",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tía abuela sexta",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Primo sexto",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Prima sexta",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tío hexabuelo cuarto",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tía hexabuela cuarta",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo quinto",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tío trastatarabuela quinta",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tío bisabuelo sexto",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tía bisabuela sexta",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tío séptimo",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tía séptima",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tío pentabuelo quinto",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tía pentabuela quinta",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo sexto",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tía tatarabuela sexta",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tío abuelo séptimo",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tía abuela séptima",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Primo séptimo",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Prima séptima",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo sexto",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tía trastatarabuela sexta",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tío bisabuelo séptimo",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tía bisabuela séptima",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tío octavo",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tía octava",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo séptimo",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Tía tatarabuela séptima",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Tío abuelo octavo",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Tía abuela octava",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Primo octavo",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Prima octava",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Tío bisabuelo octavo",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Tía bisabuela octava",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Tío noveno",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Tía novena",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Tío abuelo noveno",
+            "degree": "20º Grado"
+        },
+        {
+            "name": "Tía abuela novena",
+            "degree": "20º Grado"
+        },
+        {
+            "name": "Primo noveno",
+            "degree": "20º Grado"
+        },
+        {
+            "name": "Prima novena",
+            "degree": "20º Grado"
+        },
+        {
+            "name": "Tío décimo",
+            "degree": "21º Grado"
+        },
+        {
+            "name": "Tía décima",
+            "degree": "21º Grado"
+        },
+        {
+            "name": "Primo décimo",
+            "degree": "22º Grado"
+        },
+        {
+            "name": "Prima décima",
+            "degree": "22º Grado"
+        }
+    ],
+    "Afinidad Ascendente y Colateral": [
+        {
+            "name": "Esposo",
+            "degree": "Grado 0"
+        },
+        {
+            "name": "Esposa",
+            "degree": "Grado 0"
+        },
+        {
+            "name": "Esposos",
+            "degree": "Grado 0"
+        },
+        {
+            "name": "Relación extramarital",
+            "degree": "Grado 0"
+        },
+        {
+            "name": "Padrastro",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Madrastra",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Suegro",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Suegra",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Suegrastro",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Suegrastra",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Hermanastro",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Hermanastra",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Abuelastro",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Abuelastra",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Abuelo político",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Abuela política",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Abuelastro político",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Abuelastra política",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Cuñado",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Cuñada",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Medio cuñado",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Media cuñada",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Cuñadastro",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Cuñadastra",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Concuñado",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Concuñada",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Medio concuñado",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Media concuñada",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Concuñadastro",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Concuñadastra",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Consuegro",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Consuegra",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Consuegrastro",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Consuegrastra",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Bisabuelastro",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisabuelastra",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisabuelo político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisabuela política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisabuelastro político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisabuelastra política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tío político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tía política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tío político (PPC)",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tía política (PPC)",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tío político político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tía política política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tíastro",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tíastra",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tíastro político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tíastra política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tíastro político (PPC)",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tíastra política (PPC)",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tíastro político político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tíastra política política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tío abuelo político",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Tía abuela política",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Tío abuelo político (PPC)",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Tía abuela política (PPC)",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Tío abuelo político político",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Tía abuela política política",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primo político",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Prima política",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primo político (PPC)",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Prima política (PPC)",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primo político político",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Prima política política",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primastro",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primastra",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primastro político",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primastra política",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primastro político (PPC)",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primastra política (PPC)",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primastro político político",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Primastra política política",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Tío bisabuelo político",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tía bisabuela política",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tío segundo político",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tía segunda política",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tío segundo político (PPC)",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tía segunda política (PPC)",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tío segundo político político",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tía segunda política política",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo político",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Tía tatarabuela política",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Tío abuelo segundo político",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Tía abuela segunda política",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Primo segundo político",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Prima segunda política",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo político",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tía trastatarabuela política",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tío bisabuelo segundo político",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tía bisabuela segunda política",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tío tercero político",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tía tercera política",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Tío pentabuelo político",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tía pentabuela política",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo segundo político",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tía tatarabuela segunda política",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tío abuelo tercero político",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tía abuela tercera política",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Primo tercero político",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Prima tercera política",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Tío hexabuelo político",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tía hexabuela política",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo segundo político",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tía trastatarabuela segunda política",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tío bisabuelo tercero político",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tía bisabuela tercera política",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tío cuarto político",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tía cuarta política",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Tío heptabuelo político",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tía heptabuela política",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tío pentabuelo segundo político",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tía pentabuela segunda política",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo tercero político",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tía tatarabuela tercera política",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tío abuelo cuarto político",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tía abuela cuarta política",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Primo cuarto político",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Prima cuarta política",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Tío octabuelo político",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tía octabuela política",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tío hexabuelo segundo político",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tía hexabuela segunda política",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo tercero político",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tía trastatarabuela tercera política",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tío bisabuelo cuarto político",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tía bisabuela cuarta política",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tío quinto político",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tía quinta política",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Tío eneabuelo político",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tía eneabuela política",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tío heptabuelo segundo político",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tía heptabuela segunda política",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tío pentabuelo tercero político",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tía pentabuela tercera política",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo cuarto político",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tía tatarabuela cuarta política",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tío abuelo quinto político",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tía abuela quinta política",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Primo quinto político",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Prima quinta política",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Tío octabuelo segundo político",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tía octabuela segunda política",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tío hexabuelo tercero político",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tía hexabuela tercera política",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo cuarto político",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tía trastatarabuela cuarta política",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tío bisabuelo quinto político",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tía bisabuela quinta política",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tío sexto político",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tía sexta política",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Tío heptabuelo tercero político",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tía heptabuela tercera política",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tío pentabuelo cuarto político",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tía pentabuela cuarta política",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo quinto político",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tía tatarabuela quinta política",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tío abuelo sexto político",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tía abuela sexta política",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Primo sexto político",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Prima sexta política",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Tío hexabuelo cuarto político",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tía hexabuela cuarta política",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo quinto político",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tío trastatarabuela quinta política",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tío bisabuelo sexto político",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tía bisabuela sexta política",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tío séptimo político",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tía séptima política",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Tío pentabuelo quinto político",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tía pentabuela quinta política",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo sexto político",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tía tatarabuela sexta política",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tío abuelo séptimo político",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tía abuela séptima política",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Primo séptimo político",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Prima séptima política",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Tío trastatarabuelo sexto político",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tía trastatarabuela sexta política",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tío bisabuelo séptimo político",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tía bisabuela séptima política",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tío octavo político",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tía octava política",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Tío tatarabuelo séptimo político",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Tía tatarabuela séptima política",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Tío abuelo octavo político",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Tía abuela octava política",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Primo octavo político",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Prima octava política",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Tío bisabuelo octavo político",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Tía bisabuela octava política",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Tío noveno político",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Tía novena política",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Tío abuelo noveno político",
+            "degree": "20º Grado"
+        },
+        {
+            "name": "Tía abuela novena política",
+            "degree": "20º Grado"
+        },
+        {
+            "name": "Primo noveno político",
+            "degree": "20º Grado"
+        },
+        {
+            "name": "Prima novena política",
+            "degree": "20º Grado"
+        },
+        {
+            "name": "Tío décimo político",
+            "degree": "21º Grado"
+        },
+        {
+            "name": "Tía décima política",
+            "degree": "21º Grado"
+        },
+        {
+            "name": "Primo décimo político",
+            "degree": "22º Grado"
+        },
+        {
+            "name": "Prima décima política",
+            "degree": "22º Grado"
+        }
+    ],
+    "Consanguinidad Descendente": [
+        {
+            "name": "Hijo",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Hija",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Hijo ilegítimo",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Hija ilegítima",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Nieto",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Nieta",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Bisnieto",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisnieta",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrino",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrina",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Medio sobrino",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Media sobrina",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Tataranieto",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Tataranieta",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Sobrino nieto",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Sobrina nieta",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Trastataranieto (Chozno)",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Trastataranieta (Chozna)",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrino segundo",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrina segunda",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Pentanieto (Bichozno)",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Pentanieta (Bichozna)",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Sobrino nieto segundo",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Sobrina nieta segunda",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Hexanieto",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Hexanieta",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto (Sobrino chozno)",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta (Sobrina chozna)",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto segundo",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta segunda",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrino tercero",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrina tercera",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Heptanieto",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Heptanieta",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrino pentanieto (Sobrino bichozno)",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrina pentanieta (Sobrina bichozna)",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto segundo",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta segunda",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrino nieto tercero",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrina nieta tercera",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Octanieto",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Octanieta",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrino hexanieto",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrina hexanieta",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto segundo (Sobrino chozno segundo)",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta segunda (Sobrina chozna segunda)",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto tercero",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta tercera",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrino cuarto",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrina cuarta",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Eneanieto",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Eneanieta",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrino heptanieto",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrina heptanieta",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrino pentanieto segundo (Sobrino bichozno segundo)",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrina pentanieta segunda (Sobrina bichozna segunda)",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto tercero",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta tercera",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrino nieto cuarto",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrina nieta cuarta",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Decanieto",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Decanieta",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrino octanieto",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrina octanieta",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrino hexanieto segundo",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrina hexanieta segunda",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto tercero (Sobrino chozno tercero)",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta tercera (Sobrina chozna tercera)",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrino nieto cuarto",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrina nieta cuarta",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrino quinto",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrina quinta",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrino eneanieto",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrina eneanieta",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrino heptanieto segundo",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrina heptanieta segunda",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrino pentanieto tercero (Sobrino bichozno tercero)",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrina pentanieta tercera (Sobrina bichozna tercera)",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto cuarto",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta cuarta",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrino nieto quinto",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrina nieta quinta",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrino octanieto segundo",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrina octanieta segunda",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrino hexanieto tercero",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrina hexanieta tercera",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto cuarto (Sobrino chozno cuarto)",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta cuarta (Sobrina chozna cuarta)",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto quinto",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta quinta",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrino sexto",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrina sexta",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrino heptanieto tercero",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrina heptanieta tercera",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrino pentanieto cuarto (Sobrino bichozno cuarto)",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrina pentanieta cuarta (Sobrina bichozna cuarta)",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto quinto",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta quinta",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrino nieto sexto",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrina nieta sexta",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrinos hexanieto cuarto",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrina hexanieta cuarta",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto quinto (Sobrino chozno quinto)",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta quinta (Sobrina chozna quinta)",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto sexto",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta sexta",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrino séptimo",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrina séptima",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrino pentanieto quinto (Sobrino bichozno quinto)",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrina pentanieta quinta (Sobrina bichozna quinta)",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto sexto",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta sexta",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrino nieto séptimo",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrina nieta séptima",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto sexto (Sobrino chozno sexto)",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta sexta (Sobrina chozna sexta)",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto séptimo",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta séptima",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrino octavo",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrina octava",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto séptimo",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta séptima",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Sobrino nieto octavo",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Sobrina nieta octava",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto octavo",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta octava",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Sobrino noveno",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Sobrina novena",
+            "degree": "19º Grado"
+        },
+        {
+            "name": "Sobrino nieto noveno",
+            "degree": "20º Grado"
+        },
+        {
+            "name": "Sobrina nieta novena",
+            "degree": "20º Grado"
+        },
+        {
+            "name": "Sobrino décimo",
+            "degree": "21º Grado"
+        },
+        {
+            "name": "Sobrina décima",
+            "degree": "21º Grado"
+        }
+    ],
+    "Afinidad Descendente": [
+        {
+            "name": "Yerno",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Nuera",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Hijastro",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Hijastra",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Yernastro",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Nuerastra",
+            "degree": "1º Grado"
+        },
+        {
+            "name": "Nieto político",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Nieta política",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Nietastro",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Nietastra",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Nietastro político",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Nietastra política",
+            "degree": "2º Grado"
+        },
+        {
+            "name": "Bisnieto político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisnieta política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisnietastro",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisnietastra",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisnietastro político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Bisnietastra política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrino político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrina política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrino político (PPC)",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrina política (PPC)",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrino político político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrina política política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrinastro",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrinastra",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrinastro político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrinastra política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrinastro político (PPC)",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrinastra política (PPC)",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrinastro político político",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrinastra política política",
+            "degree": "3º Grado"
+        },
+        {
+            "name": "Sobrino nieto político",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Sobrina nieta política",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Sobrino nieto político (PPC)",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Sobrina nieta política (PPC)",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Sobrino nieto político político",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Sobrina nieta política política",
+            "degree": "4º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto político",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta política",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrino segundo político",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrina segunda política",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrino segundo político (PPC)",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrina segunda política (PPC)",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrino político político",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrina política política",
+            "degree": "5º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto político",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta política",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Sobrino nieto segundo político",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Sobrina nieta segunda política",
+            "degree": "6º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto político (Sobrino chozno político)",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta política (Sobrina chozna política)",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto segundo político",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta segunda política",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrino tercero político",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrina tercera política",
+            "degree": "7º Grado"
+        },
+        {
+            "name": "Sobrino pentanieto político (Sobrino bichozno político)",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrina pentanieta política (Sobrina bichozna política)",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto segundo político",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta segunda política",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrino nieto tercero político",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrina nieta tercera político",
+            "degree": "8º Grado"
+        },
+        {
+            "name": "Sobrino hexanieto político",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrina hexanieta política",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto segundo político (Sobrino chozno segundo político)",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta segunda política (Sobrina chozna segunda política)",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto tercero político",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta tercera política",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrino cuarto político",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrina cuarta política",
+            "degree": "9º Grado"
+        },
+        {
+            "name": "Sobrino heptanieto político",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrina heptanieta política",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrino pentanieto segundo político (Sobrino bichozno segundo político)",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrina pentanieta segunda política (Sobrina bichozna segunda política)",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto tercero político",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta tercera política",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrino nieto cuarto político",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrina nieta cuarta política",
+            "degree": "10º Grado"
+        },
+        {
+            "name": "Sobrino octanieto político",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrina octanieta política",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrino hexanieto segundo político",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrina hexanieta segunda política",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto tercero político (Sobrino chozno tercero político)",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta tercera política (Sobrina chozna tercera político)",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrino nieto cuarto político",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrina nieta cuarta política",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrino quinto político",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrina quinta política",
+            "degree": "11º Grado"
+        },
+        {
+            "name": "Sobrino eneanieto político",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrina eneanieta política",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrino heptanieto segundo político",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrina heptanieta segunda política",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrino pentanieto tercero político (Sobrino bichozno tercero político)",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrina pentanieta tercera política (Sobrina bichozna tercera política)",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto cuarto político",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta cuarta política",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrino nieto quinto político",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrina nieta quinta política",
+            "degree": "12º Grado"
+        },
+        {
+            "name": "Sobrino octanieto segundo político",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrina octanieta segunda política",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrino hexanieto tercero político",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrina hexanieta tercera política",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto cuarto político (Sobrino chozno cuarto político)",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta cuarta política (Sobrina chozna cuarta política)",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto quinto político",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta quinta política",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrino sexto político",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrina sexta política",
+            "degree": "13º Grado"
+        },
+        {
+            "name": "Sobrino heptanieto tercero político",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrina heptanieta tercera política",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrino pentanieto cuarto político (Sobrino bichozno cuarto político)",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrina pentanieta cuarta político (Sobrina bichozna cuarta política)",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto quinto político",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta quinta política",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrino nieto sexto político",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrina nieta sexta política",
+            "degree": "14º Grado"
+        },
+        {
+            "name": "Sobrino hexanieto cuarto político",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrina hexanieta cuarta política",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto quinto político (Sobrino chozno quinto político)",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta quinta política (Sobrina chozna quinta política)",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto sexto político",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta sexta política",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrino séptimo político",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrina séptima política",
+            "degree": "15º Grado"
+        },
+        {
+            "name": "Sobrino pentanieto quinto político (Sobrino bichozno quinto político)",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrina pentanieta quinta política (Sobrina bichozna quinta política)",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto sexto político",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta sexta política",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrino nieto séptimo político",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrina nieta séptima política",
+            "degree": "16º Grado"
+        },
+        {
+            "name": "Sobrino trastataranieto sexto político (Sobrino chozno sexto político)",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrina trastataranieta sexta política (Sobrina chozna sexta política)",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto séptimo político",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrina bisnieta séptima política",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrino octavo político",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrina octava política",
+            "degree": "17º Grado"
+        },
+        {
+            "name": "Sobrino tataranieto séptimo político",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Sobrina tataranieta séptima política",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Sobrino nieto octavo político",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Sobrina nieta octava política",
+            "degree": "18º Grado"
+        },
+        {
+            "name": "Sobrino bisnieto octavo político",
+            "degree": "19º Grado"
+        }
+    ]
+}
